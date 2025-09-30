@@ -1,0 +1,1 @@
+Professor não consegui commitar através dos comandos git, amanhã trabalho e durante o serviço não consigo fazer, por isso commitei de forma normal.
